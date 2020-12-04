@@ -1,0 +1,211 @@
+{
+    "groups": [
+        {
+            "id": 1,
+            "name": "Ratones Paranoicos",
+            "discs": [
+                {
+                    "name": "Girando",
+                    "year": 2004,
+                    "image": "girando.jpg",
+                    "songs": [
+                        "Sigue girando", 
+                        "Cristal",
+                        "No me importa tu dinero",
+                        "Simpatía",
+                        "La fuga",
+                        "La banda de Rock and Roll",
+                        "Balcón de Julieta",
+                        "Es para mí",
+                        "Conexión",
+                        "No hay",
+                        "Solo sé",
+                        "Exsitar (instrumental)" 
+                    ]
+                },
+                {
+                    "name": "Furtivos",
+                    "year": 1989,
+                    "image": "furtivos.jpg",
+                    "songs": [
+                       "La Red",
+                       "Pesado Burdel",
+                       "Caballos De Noche",
+                       "Paren De Correr",
+                       "El Reflejo",
+                       "Rock Del Gato",
+                       "Lobo Echó",
+                       "Al Fin Nena",
+                       "Hasta Que Llegue El Dolor",
+                       "Hay Sábados",
+                       "Encerrado"
+                    ]
+                },
+                {
+                    "name": "Vivo paranoico",
+                    "year": 2000,
+                    "image": "vivoparanoico.jpg",
+                    "songs": [
+                        "Líder Algo Especial",
+                        "Enlace",
+                        "Sucia Estrella",
+                        "La Nave",
+                        "Carol",
+                        "Mona Lisa",
+                        "Isabel",
+                        "Descerebrado",
+                        "Lo Que Doy",
+                        "La Avispa",
+                        "Rock Del Pedazo",
+                        "Ya Morí",
+                        "Vodka Doble",
+                        "Cowboy",
+                        "Rock Del Gato",
+                        "Para Siempre"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Los Gardelitos",
+            "discs": [
+                {
+                    "name": "Ciudad Oculta",
+                    "year": 2014,
+                    "image": "ciudadoculta.jpg",
+                    "songs": [
+                        "Puño y letra",
+                        "Hojas del Otoño",
+                        "Viejo y querido rocanrol",
+                        "Buen día, nena",
+                        "Lo que vendrá",
+                        "Tibias noticias del sol",
+                        "La ciudad que se oculta",
+                        "Blues de los pantalones",
+                        "Pájaro y campana",
+                        "Una estrella en el mar",
+                        "Al pie de la letra",
+                        "Un taxi"
+                    ]
+                },
+                {
+                    "name": "Gardeliando",
+                    "year": 1996,
+                    "image": "gardeliando.jpg",
+                    "songs": [
+                        "El tanguito",
+                        "Cobarde para amar",
+                        "Blues para Caseros",
+                        "Gardeliando",
+                        "Lo que mis vecinos creen",
+                        "Amor de contramano",
+                        "Volveré en tus ojos",
+                        "Nadie cree en mi canción",
+                        "Los chicos de la esquina",
+                        "La constelación de la virgen",
+                        "Libertad condicionada",
+                        "América del Sur",
+                        "A pesar del viento"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Soda Stereo",
+            "discs": [
+                {
+                    "name": "Signos",
+                    "year": 1986,
+                    "image": "signos.jpg",
+                    "songs": [
+                        "Sin sobresaltos",
+                        "El rito",
+                        "Profugos",
+                        "No existes",
+                        "Persiana americana",
+                        "En camino",
+                        "Signos",
+                        "Final caja negra"
+                    ]
+                },   
+                {
+                    "name": "Cancion Animal",
+                    "year": 1990,
+                    "image": "cancionanimal.jpg",
+                    "songs": [
+                        "El Séptimo Día",
+                        "Un millón de años luz",
+                        "Cancion animal",
+                        "1990",
+                        "Sueles dejarme solo",
+                        "De musica ligera",
+                        "Hombre al agua",
+                        "Entre canibales",
+                        "Te para 3",
+                        "Cae el sol"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Los Piojos",
+            "discs": []
+        },
+        {
+            "id": 5,
+            "name": "Kapanga",
+            "discs": [
+                {
+                    "name": "A 15cm de la realidad",
+                    "year": 1998,
+                    "image": "a15cmdelarealidad.jpg",
+                    "songs": [
+                        "Kapanga",
+                        "El mono relojero",
+                        "Bon que bon",
+                        "Ramón",
+                        "Caballero rojo",
+                        "El akordeón",
+                        "Karrito de rulemanes",
+                        "Marche preso por rigor",
+                        "Hombre gato",
+                        "Mujeres",
+                        "Me mata",
+                        "Amor de mañana",
+                        "Kuarteteros",
+                        "Amor secreto",
+                        "Toda la vida",
+                        "Kapangatronik",
+                        "Cecator el borracho",
+                        "Agujita de oro",
+                        "Somos los heavys"
+                    ]
+                },   
+                {
+                    "name": "Crece",
+                    "year": 2007,
+                    "image": "crece.jpg",
+                    "songs": [
+                        "Contramano",
+                        "Para mi",
+                        "Mesa 4",
+                        "Un lugar",
+                        "Perdoname",
+                        "Para vos",
+                        "Quiero",
+                        "Hombres rata",
+                        "Me voy yendo",
+                        "Murmullo",
+                        "Crece",
+                        "Una nube",
+                        "Marcel marceau",
+                        "Para mi"
+                    ]
+                }
+            ]
+        }
+    ]
+}

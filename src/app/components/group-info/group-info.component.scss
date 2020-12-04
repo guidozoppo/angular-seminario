@@ -1,0 +1,42 @@
+.group-container {
+    margin: 22px 0;
+    padding: 12px;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(168, 168, 168);
+    border-radius: 4px;
+    .group-header {
+        margin-bottom: 18px;
+        display: flex;
+        align-items: center;
+        .discs-title {
+            margin-right: 8px;
+            font-size: 20px;
+        }
+        button {
+            width: 25px;
+            height: 25px;
+            img {
+                width: 100%;
+                height: 100%;
+            }
+        }
+    }
+    .disc {
+        margin-bottom: 12px;
+        display: flex;
+        .image {
+            width: 70px;
+            height: 70px;
+            margin-right: 8px;
+            img {
+                width: 100%;
+                height: 100%;
+            }
+        }
+        .info {
+            .disc-name {
+                font-size: 18px;
+            }
+        }
+    }
+}

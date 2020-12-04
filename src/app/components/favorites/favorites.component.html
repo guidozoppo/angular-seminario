@@ -1,0 +1,10 @@
+<div class="fav-container">
+    <app-title-section [title]="title"></app-title-section>
+
+    <div>
+        <app-group *ngFor="let group of favoritesGroup" [group]="group"></app-group>
+    </div>
+    <div *ngIf="favoritesGroup.length === 0">
+        <p>No hay favoritos.</p>
+    </div>
+</div>

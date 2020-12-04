@@ -1,0 +1,23 @@
+<div class="group-container">
+    <div class="group-header">
+        <h2 class="group-name">{{ group.name }}</h2>
+        <button (click)="changeFavorite(group.id)">
+            <img [src]="'./assets/images/icons/' + (group.favorite ? 'fav.png' : 'no-fav.png')" alt="Modificar de favoritos">
+        </button>
+    </div>
+    <div *ngIf="group.discs.length > 0">
+        <div *ngFor="let disc of group.discs" class="disc">
+            <div class="image">
+                <img [src]="'./assets/images/discs/' + disc.image" [alt]="disc.name">
+            </div>
+            <div class="info">
+                <h3 class="disc-name">{{ disc.name }} ({{ disc.year }})</h3>
+                <p>{{ disc.songs.length }} canciones</p>
+            </div>
+        </div>
+        <a [routerLink]="['/group', group.id]" class="btn-view-more">Ver mas</a>
+    </div>
+    <div *ngIf="group.discs.length === 0">
+        <p>No se encontraron discos de este grupo.</p>
+    </div>
+</div>

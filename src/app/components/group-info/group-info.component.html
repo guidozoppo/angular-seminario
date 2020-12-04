@@ -1,0 +1,25 @@
+<div *ngIf="group" class="fav-container">
+    <app-title-section [title]="group.name"></app-title-section>
+
+    <div class="group-container">
+        <div class="group-header">
+            <h2 class="discs-title">Discos ({{ group.discs.length }})</h2>
+        </div>
+        <div *ngIf="group.discs.length > 0">
+            <div *ngFor="let disc of group.discs" class="disc">
+                <div class="image">
+                    <img [src]="'./assets/images/discs/' + disc.image" [alt]="disc.name">
+                </div>
+                <div class="info">
+                    <h3 class="disc-name">{{ disc.name }} ({{ disc.year }})</h3>
+                    <ul>
+                        <li *ngFor="let song of disc.songs; let i = index">{{ i + 1 }}- {{ song }}</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div *ngIf="group.discs.length === 0">
+            <p>No se encontró información de este grupo.</p>
+        </div>
+    </div>
+</div>

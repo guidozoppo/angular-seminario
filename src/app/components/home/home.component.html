@@ -1,0 +1,7 @@
+<div class="home-container">
+    <app-title-section [title]="'Inicio'"></app-title-section>
+
+    <div>
+        <app-group *ngFor="let group of groups" [group]="group"></app-group>
+    </div>
+</div>

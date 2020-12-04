@@ -1,0 +1,21 @@
+header {
+    width: 100%;
+    background-color: #3a426b;
+    color: white;
+    nav {
+        padding: 0 22px;
+        ul {
+            display: flex;
+            li {
+                margin: 0 8px;
+                a {
+                    padding: 12px;
+                    display: block;
+                    &:hover {
+                        background-color: #485286;
+                    }
+                }
+            }
+        }
+    }
+}
