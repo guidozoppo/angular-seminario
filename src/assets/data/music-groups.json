@@ -7,7 +7,7 @@
                 {
                     "name": "Girando",
                     "year": 2004,
-                    "image": "girando.jpg",
+                    "image": "https://www.cmtv.com.ar/tapas-cd/ratonesgirando.jpg",
                     "songs": [
                         "Sigue girando", 
                         "Cristal",
@@ -26,7 +26,7 @@
                 {
                     "name": "Furtivos",
                     "year": 1989,
-                    "image": "furtivos.jpg",
+                    "image": "https://img.discogs.com/hdQRFTUxp0_iPEVDbdhUgkPjxbE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9980257-1489603857-8694.jpeg.jpg",
                     "songs": [
                        "La Red",
                        "Pesado Burdel",
@@ -44,7 +44,7 @@
                 {
                     "name": "Vivo paranoico",
                     "year": 2000,
-                    "image": "vivoparanoico.jpg",
+                    "image": "https://www.cmtv.com.ar/tapas-cd/ratonesvivoparanoico.jpg",
                     "songs": [
                         "Líder Algo Especial",
                         "Enlace",
@@ -73,7 +73,7 @@
                 {
                     "name": "Ciudad Oculta",
                     "year": 2014,
-                    "image": "ciudadoculta.jpg",
+                    "image": "https://www.cmtv.com.ar/tapas-cd/losgardelitosciudadoculta.jpg",
                     "songs": [
                         "Puño y letra",
                         "Hojas del Otoño",
@@ -92,7 +92,7 @@
                 {
                     "name": "Gardeliando",
                     "year": 1996,
-                    "image": "gardeliando.jpg",
+                    "image": "https://img.discogs.com/aHKUTipGRuv-kemrW-XNIGLOTek=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8073293-1595980850-4513.jpeg.jpg",
                     "songs": [
                         "El tanguito",
                         "Cobarde para amar",
@@ -118,7 +118,7 @@
                 {
                     "name": "Signos",
                     "year": 1986,
-                    "image": "signos.jpg",
+                    "image": "https://img.discogs.com/eozaVVQ0ZDEmkUZ0Mvz0F74K-Vs=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4011546-1352258827-8549.jpeg.jpg",
                     "songs": [
                         "Sin sobresaltos",
                         "El rito",
@@ -133,7 +133,7 @@
                 {
                     "name": "Cancion Animal",
                     "year": 1990,
-                    "image": "cancionanimal.jpg",
+                    "image": "https://www.rockandpop.cl/wp-content/uploads/2019/08/cancion-animal-3-400x360.jpg",
                     "songs": [
                         "El Séptimo Día",
                         "Un millón de años luz",
@@ -161,7 +161,7 @@
                 {
                     "name": "A 15cm de la realidad",
                     "year": 1998,
-                    "image": "a15cmdelarealidad.jpg",
+                    "image": "https://img.discogs.com/-GiH8FTjAHw6POYguJ5BO87N8Do=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6668231-1424229871-2408.jpeg.jpg",
                     "songs": [
                         "Kapanga",
                         "El mono relojero",
@@ -187,7 +187,7 @@
                 {
                     "name": "Crece",
                     "year": 2007,
-                    "image": "crece.jpg",
+                    "image": "https://www.cmtv.com.ar/tapas-cd/kapangacrece.jpg",
                     "songs": [
                         "Contramano",
                         "Para mi",

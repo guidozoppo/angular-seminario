@@ -2,13 +2,13 @@
     <div class="group-header">
         <h2 class="group-name">{{ group.name }}</h2>
         <button (click)="changeFavorite(group.id)">
-            <img [src]="'./assets/images/icons/' + (group.favorite ? 'fav.png' : 'no-fav.png')" alt="Modificar de favoritos">
+            <img [src]="group.favorite ? 'https://icons-for-free.com/iconfiles/png/512/favorites+favourite+like+love+star+icon-1320161377492446548.png' : 'https://cdn.iconscout.com/icon/premium/png-256-thumb/favorite-1762541-1501757.png'" alt="Modificar de favoritos">
         </button>
     </div>
     <div *ngIf="group.discs.length > 0">
         <div *ngFor="let disc of group.discs" class="disc">
             <div class="image">
-                <img [src]="'./assets/images/discs/' + disc.image" [alt]="disc.name">
+                <img [src]="disc.image" [alt]="disc.name">
             </div>
             <div class="info">
                 <h3 class="disc-name">{{ disc.name }} ({{ disc.year }})</h3>

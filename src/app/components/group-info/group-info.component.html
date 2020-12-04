@@ -8,7 +8,7 @@
         <div *ngIf="group.discs.length > 0">
             <div *ngFor="let disc of group.discs" class="disc">
                 <div class="image">
-                    <img [src]="'./assets/images/discs/' + disc.image" [alt]="disc.name">
+                    <img [src]="disc.image" [alt]="disc.name">
                 </div>
                 <div class="info">
                     <h3 class="disc-name">{{ disc.name }} ({{ disc.year }})</h3>
