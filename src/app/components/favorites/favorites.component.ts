@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { Group } from 'src/app/interfaces/music.interfaces';
-import { MusicService } from 'src/app/services/music.service';
+import { Group } from '../../interfaces/music.interfaces';
+import { MusicService } from '../../services/music.service';
 
 @Component({
   selector: 'app-favorites',

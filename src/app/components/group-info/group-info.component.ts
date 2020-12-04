@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
-import { MusicService } from 'src/app/services/music.service';
-import { Group } from 'src/app/interfaces/music.interfaces';
+import { MusicService } from '../../services/music.service';
+import { Group } from '../../interfaces/music.interfaces';
 
 @Component({
   selector: 'app-group-info',

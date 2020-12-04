@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { BehaviorSubject, Observable } from 'rxjs';
-import { Group } from 'src/app/interfaces/music.interfaces';
+import { Group } from '../interfaces/music.interfaces';
 
 @Injectable()
 export class MusicService {

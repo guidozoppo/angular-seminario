@@ -13,11 +13,11 @@ export class HeaderComponent {
   constructor() {
     this.navItems = [
       {
-        name: 'Inicio',
+        name: 'inicio',
         routerLink: ['/']
       },
       {
-        name: 'Mis favoritos',
+        name: 'mis favoritos',
         routerLink: ['/favorites']
       }
     ];
